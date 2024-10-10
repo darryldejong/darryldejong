@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Yawlf
-- 👀 I’m interested in coding.
+- 👀 I’m interested in programming.
 
 <!---
 Yawlf/Yawlf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
