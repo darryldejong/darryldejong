@@ -7,14 +7,14 @@
 </div>
 
 <div align="center">
-  <img src="naruto.gif" alt="narutogif"/>
+  <img src="naruto.gif" alt="narutogif" style="width: 300px;"/>
 </div>
 
 <div align="right">
   <img src="trainer.gif" alt="trainergif"/>
 </div>
 
-<div style="margin-left: 300px;">
+<div align="center">
   <img src="buizel.gif" alt="buizelgif" style="width: 150px;">
 </div>
 
