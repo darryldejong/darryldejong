@@ -1,8 +1,5 @@
 <div align="left">
-  <img src="hello.gif" alt="gifhello" style="width: 300px;">
-</div>
-
-<div align="left">
+  <img src="hello.gif" alt="gifhello" style="width: 250px;">
   <img src="cat.gif" alt="gifcat" style="margin-right: 200px; width: 80px;">
 </div>
 
