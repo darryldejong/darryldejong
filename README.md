@@ -3,7 +3,7 @@
 </div>
 
 <div align="right">
-  <img src="cat.gif" alt="gifcat" style="margin-left: 100px; width: 120px;">
+  <img src="cat.gif" alt="gifcat" style="margin-left: 200px; width: 80px;">
 </div>
 
 <div align="center">
