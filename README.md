@@ -1,5 +1,10 @@
-![gifhello](hello.gif)
-![gifcat](cat.gif)
+<div align="left">
+  <img src="hello.gif" alt="gifhello" style="width: 300px;">
+</div>
+
+<div align="right">
+  <img src="cat.gif" alt="gifcat">
+</div>
 
 <div align="center">
   <img src="mario.gif" alt="gifmario" style="width: 400px;">
