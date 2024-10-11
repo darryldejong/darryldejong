@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <img src="naruto.gif" alt="narutogif" style="width: 300px;"/>
+  <img src="naruto.gif" alt="narutogif" style="width: 1000px;"/>
 </div>
 
 <div align="right">
