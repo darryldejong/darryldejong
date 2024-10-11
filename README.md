@@ -1,7 +1,7 @@
-hoi [gifcat](cat.gif)
+HOI ![gifcat](cat.gif)
 
 <div align="center">
-  <img src="mario.gif" alt="gifmario">
+  <img src="mario.gif" alt="gifmario" style="width: 200px;">
 </div>
 
 ![gifnyancat](nyancat.gif)
