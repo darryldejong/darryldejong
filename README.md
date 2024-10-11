@@ -6,16 +6,15 @@
   <img src="scorbunny.gif" alt="scorbunnygif" style="width: 80px;">
 </div>
 
-<div style="display: flex; justify-content: center; align-items: center;">
-  <div style="flex-grow: 1; text-align: center;">
-    <img src="naruto.gif" alt="narutogif">
-  </div>
-  <div>
-    <img src="trainer.gif" alt="trainergif">
-  </div>
+<div align="center">
+  <img src="naruto.gif" alt="narutogif"/>
 </div>
 
-<div style="margin-left: 100px;">
+<div align="right">
+  <img src="trainer.gif" alt="trainergif"/>
+</div>
+
+<div style="margin-left: 300px;">
   <img src="buizel.gif" alt="buizelgif" style="width: 150px;">
 </div>
 
