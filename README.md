@@ -2,6 +2,10 @@
   <img src="sonic.gif" alt="sonicgif" style="width: 200px;">
 </div>
 
+<div align="center">
+  <img src="welcome.gif" alt="welcomegif">
+</div>
+
 <div align="right" style="padding-left: 50px;">
   <img src="scorbunny.gif" alt="scorbunnygif" style="width: 80px;">
 </div>
