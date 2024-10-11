@@ -1,13 +1,15 @@
 <div align="left">
-  <img src="hello.gif" alt="gifhello" style="width: 250px;">
-  <img src="cat.gif" alt="gifcat" style="margin-right: 200px; width: 80px;">
+  <img src="sonic.gif" alt="sonicgif" style="width: 250px;">
+  <img src="scorbunny.gif" alt="scorbunnygif" style="margin-right: 200px; width: 80px;">
 </div>
 
 <div align="center">
-  <img src="mario.gif" alt="gifmario" style="width: 500px;">
+  <img src="naruto.gif" alt="narutogif" style="width: 500px;">
 </div>
 
-![gifnyancat](nyancat.gif)
+![buizelgif](buizel.gif)
+
+![nyancatgif](nyancat.gif)
 
 <div align="right">
   <img src="parrot.gif" alt="parrotgif" style="margin-right: 20px;">
