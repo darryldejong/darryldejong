@@ -2,12 +2,12 @@
   <img src="hello.gif" alt="gifhello" style="width: 300px;">
 </div>
 
-<div align="right">
-  <img src="cat.gif" alt="gifcat" style="margin-left: 200px; width: 80px;">
+<div align="left">
+  <img src="cat.gif" alt="gifcat" style="margin-right: 200px; width: 80px;">
 </div>
 
 <div align="center">
-  <img src="mario.gif" alt="gifmario" style="width: 400px;">
+  <img src="mario.gif" alt="gifmario" style="width: 500px;">
 </div>
 
 ![gifnyancat](nyancat.gif)
