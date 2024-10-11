@@ -7,11 +7,15 @@
 </div>
 
 <div style="display: flex; justify-content: center; align-items: center;">
-  <img src="naruto.gif" alt="narutogif" style="margin-right: 20px;">
-  <img src="trainer.gif" alt="trainergif">
+  <div style="flex-grow: 1; text-align: center;">
+    <img src="naruto.gif" alt="narutogif">
+  </div>
+  <div>
+    <img src="trainer.gif" alt="trainergif">
+  </div>
 </div>
 
-<div align="left" style="padding-left: 50px;">
+<div style="margin-left: 100px;">
   <img src="buizel.gif" alt="buizelgif" style="width: 150px;">
 </div>
 
