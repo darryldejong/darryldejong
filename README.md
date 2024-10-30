@@ -12,5 +12,5 @@
 
 <div style="display: flex; justify-content: space-between;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yawlf&" alt="yawlf" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yawlf&show_icons=true&locale=en&layout=compact" alt="yawlf" style="margin-rightt: 20px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yawlf&show_icons=true&locale=en&layout=compact" alt="yawlf" style="margin-right: 100px;" />
 </div>
