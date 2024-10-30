@@ -5,6 +5,15 @@
     <img src="welcome.gif" alt="welcomegif" style="width: 450px; margin: 10px;">
     <img src="scorbunny.gif" alt="scorbunnygif" style="width: 80px; margin: 10px;">
   </div>
+  
+# ***About me***
+I am a student studying **All-round IT Systems and Devices**, currently in the middle of my degree. I’m learning both back-end and front-end development. I aim to improve my skills and explore new ideas. I enjoy creating fun and innovative projects.
+- 📚 I’m currently learning ...
+◯ Python
+◯ Javascript
+- Besides coding, I enjoy socializing with friends, 🎮 playing video games, and ⚽ playing sports.
+- 📫 Reach out to me at: [darryldjong@gmail.com](mailto:darryldjong@gmail.com)
+
   <img src="naruto.gif" alt="narutogif" style="width: 100%; max-width: 1000px; margin-top: 10px;">
 </div>
 
