@@ -1,4 +1,3 @@
-👨‍💻 My projects [https://github.com/Yawlf?tab=repositories](https://github.com/Yawlf?tab=repositories)
 
 <div style="display: flex; flex-direction: column; align-items: center;">
   <div style="display: flex; justify-content: center; width: 100%;">
@@ -13,5 +12,5 @@
 
 <div style="display: flex; justify-content: space-between;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yawlf&" alt="yawlf" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yawlf&show_icons=true&locale=en&layout=compact" alt="yawlf" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yawlf&show_icons=true&locale=en&layout=compact" alt="yawlf" style="margin-left: 20px;" />
 </div>
