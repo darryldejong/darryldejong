@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Line-neon" width="1000" height="300" />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Line-neon" width="1000" height="100" />
 <div style="display: flex; flex-direction: column; align-items: center;">
   <div style="display: flex; justify-content: center; width: 100%;">
     <img src="sonic.gif" alt="sonicgif" style="width: 180px; margin: 10px;">
@@ -6,7 +6,8 @@
     <img src="scorbunny.gif" alt="scorbunnygif" style="width: 80px; margin: 10px;">
   </div>
   
-<img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/about_me.gif" alt="About Me" width="50" height="auto" style="vertical-align: middle; margin-right: 10px;" /> # ***About me***
+<img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/about_me.gif" alt="About Me" width="50" height="auto" style="vertical-align: middle; margin-right: 10px;" /> ***About me***
+
 I am a student studying **All-round IT Systems and Devices**, currently in the middle of my degree. I’m learning both back-end and front-end development. I enjoy creating fun and innovative projects.
 - 📚 I’m currently learning:
   - Python
