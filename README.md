@@ -7,7 +7,7 @@
   </div>
   
 # ***About me***
-I am a student studying **All-round IT Systems and Devices**, currently in the middle of my degree. I’m learning both back-end and front-end development. I aim to improve my skills and explore new ideas. I enjoy creating fun and innovative projects.
+I am a student studying **All-round IT Systems and Devices**, currently in the middle of my degree. I’m learning both back-end and front-end development. I enjoy creating fun and innovative projects.
 - 📚 I’m currently learning ...
 ◯ Python
 ◯ Javascript
