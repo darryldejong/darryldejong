@@ -1,5 +1,5 @@
 <img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif" alt="Line-neon" width="1000" height="5" />
-# I'm Darryl <img src="https://camo.githubusercontent.com/d552948e7884c41fde2d32b9221d79f0df2076c7d824aaab954ca93f53d95884/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" alt="GIF" width="50" height="auto" style="vertical-align: middle;" />
+# I'm Darryl
 <div style="display: flex; flex-direction: column; align-items: center;">
   <div style="display: flex; justify-content: center; width: 100%;">
     <img src="sonic.gif" alt="sonicgif" style="width: 180px; margin: 10px;">
