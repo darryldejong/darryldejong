@@ -1,4 +1,4 @@
-
+![Line-neon](https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif)
 <div style="display: flex; flex-direction: column; align-items: center;">
   <div style="display: flex; justify-content: center; width: 100%;">
     <img src="sonic.gif" alt="sonicgif" style="width: 180px; margin: 10px;">
