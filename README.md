@@ -1,6 +1,4 @@
 <img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif" alt="Line-neon" width="1000" height="5" />
-<h1>I'm <a href="https://github.com/Yawlf">Darryl</a> <img src="https://camo.githubusercontent.com/d552948e7884c41fde2d32b9221d79f0df2076c7d824aaab954ca93f53d95884/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" style="width: 50px; height: auto; vertical-align: middle;"></h1>
-
 
 <div style="display: flex; flex-direction: column; align-items: center;">
   <div style="display: flex; justify-content: center; width: 100%;">
