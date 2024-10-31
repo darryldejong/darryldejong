@@ -7,9 +7,11 @@
     <img src="scorbunny.gif" alt="scorbunnygif" style="width: 80px; margin: 10px;">
   </div>
   
+<br><br>
+
 <img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/about_me.gif" alt="About Me" width="50" height="auto" style="vertical-align: middle; margin-right: 10px;" /> ***About me***
 
-I am a student studying **All-round IT Systems and Devices**, currently in the middle of my degree. I’m learning both back-end and front-end development. I enjoy creating fun and innovative projects.
+I am a student studying ***All-round IT Systems and Devices***, currently halfway through my degree. I’m learning both back-end and front-end development and enjoy creating fun and innovative projects.
 - 📚 I’m currently learning:
   - Python
   - JavaScript
