@@ -10,7 +10,7 @@
 <br><br>
 
 <img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/about_me.gif" alt="About Me" width="50" height="auto" style="vertical-align: middle; margin-right: 10px;" /> ***About me***
-<img align="right" width=180px alt="Unicorn" src="https://tenor.com/view/yoshitv-yoshi-yoshicute-petefe-gif-26991893"/>
+<img align="right" width="200px" alt="Yoshi" src="yoshitv-yoshi.gif"/>
 
 
 I am a student studying ***All-round IT Systems and Devices***, currently halfway through my degree. I’m learning both back-end and front-end development and enjoy creating fun and innovative projects.
