@@ -16,7 +16,7 @@
 I am a student studying ***All-round IT Systems and Devices***, currently halfway through my degree. I’m learning both back-end and front-end development and enjoy creating fun and innovative projects.
 - 📚 I’m currently learning:
   - C++
-- Besides coding, I enjoy playing video games 🎮 and playing sports ⚽
+- Besides coding, I enjoy playing video games 🎮 and playing sports.
 - 📫 Reach out to me at: [darryldjong@gmail.com](mailto:darryldjong@gmail.com)
 
   <img src="naruto.gif" alt="narutogif" style="width: 100%; max-width: 1000px; margin-top: 10px;">
