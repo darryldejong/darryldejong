@@ -9,20 +9,20 @@
   
 <br><br>
 
-<img align="right" width="200px" alt="Yoshi" src="/Images/yoshi.gif"/>
+<img align="right" width="200px" alt="yoshi" src="/Images/yoshi.gif"/>
 
+<img src="/Images/vaporeon.gif" alt="vaporeon" style="width: 50px; margin: 10px;"> I am a student studying ***All-round IT Systems and Devices***, currently halfway through my degree. I’m learning both back-end and front-end development and enjoy creating fun and innovative projects.
 
-I am a student studying ***All-round IT Systems and Devices***, currently halfway through my degree. I’m learning both back-end and front-end development and enjoy creating fun and innovative projects.
 - 📚 I’m currently learning:
   - C++
 - Besides coding, I enjoy playing video games 🎮 and playing sports.
 - 📫 Reach out to me at: [darryldjong@gmail.com](mailto:darryldjong@gmail.com)
 
-  <img src="naruto.gif" alt="narutogif" style="width: 100%; max-width: 1000px; margin-top: 10px;">
+  <img src="/Images/naruto.gif" alt="naruto" style="width: 100%; max-width: 1000px; margin-top: 10px;">
 </div>
 
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30">&nbsp; ***Skills***
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="/Images/linewhite.gif">
 
 ###### Programming Languages:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
@@ -42,7 +42,7 @@ I am a student studying ***All-round IT Systems and Devices***, currently halfwa
 <br>
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">&nbsp;***Github Stats***
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="/Images/linewhite.gif">
 <br>
 
 <p align="center">
@@ -50,16 +50,16 @@ I am a student studying ***All-round IT Systems and Devices***, currently halfwa
 <tr border="none">
 <td width="50%" align="center">
   
-  <img  align="center" src="https://github-readme-stats.vercel.app/api?username=yawlf&theme=algolia&show_icons=true&count_private=true"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=darryldejong&theme=algolia&show_icons=true&count_private=true"/>
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="yawlf streak" src="https://github-readme-streak-stats.herokuapp.com/?user=yawlf&theme=algolia&hide_border=false" /> 
+  <img alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=darryldejong&theme=algolia&hide_border=false" /> 
 </td>
 
 <td width="50%" align="center">
-  <img  align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=yawlf&theme=algolia&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <img  align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=darryldejong&theme=algolia&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
   </td>
   
 </tr>
 </table>
 
-<img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif" alt="Line-neon" width="100%"/>
+<img src="/Images/lineneon.gif" alt="Line-neon" width="100%"/>
