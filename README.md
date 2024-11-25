@@ -1,16 +1,15 @@
-<img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif" alt="Line-neon" width="100%"/>
+<img src="/Images/lineneon.gif" alt="Line-neon" width="100%"/>
 
 <div style="display: flex; flex-direction: column; align-items: center;">
   <div style="display: flex; justify-content: center; width: 100%;">
-    <img src="sonic.gif" alt="sonicgif" style="width: 180px; margin: 10px;">
-    <img src="welcome.gif" alt="welcomegif" style="width: 450px; margin: 10px;">
-    <img src="scorbunny.gif" alt="scorbunnygif" style="width: 80px; margin: 10px;">
+    <img src="/Images/sonic.gif" alt="sonic" style="width: 180px; margin: 10px;">
+    <img src="/Images/welcome.gif" alt="welcome" style="width: 450px; margin: 10px;">
+    <img src="/Images/scorbunny.gif" alt="scorbunny" style="width: 80px; margin: 10px;">
   </div>
   
 <br><br>
 
-<img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/about_me.gif" alt="About Me" width="50" height="auto" style="vertical-align: middle; margin-right: 10px;" /> ***About me***
-<img align="right" width="200px" alt="Yoshi" src="yoshitv-yoshi.gif"/>
+<img align="right" width="200px" alt="Yoshi" src="/Images/yoshi.gif"/>
 
 
 I am a student studying ***All-round IT Systems and Devices***, currently halfway through my degree. I’m learning both back-end and front-end development and enjoy creating fun and innovative projects.
