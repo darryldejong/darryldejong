@@ -54,7 +54,6 @@ Visit my portfolio website: [https://darryldejong.github.io/](https://darryldejo
   
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=darryldejong&theme=algolia&show_icons=true&count_private=true"/>
   <br></br>
-  <img alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=darryldejong&theme=algolia&hide_border=false" /> 
 </td>
 
 <td width="50%" align="center">
