@@ -13,7 +13,7 @@
 
 <img src="/Images/vaporeon.gif" alt="vaporeon" style="width: 50px; margin: 10px;"> I am a student studying ***All-round IT Systems and Devices***, currently halfway through my degree. I’m learning how to set up, troubleshoot, and manage different systems and devices, including networks, hardware, and software, to ensure everything works correctly, while also enjoying creating fun and creative projects.
 
-Visit my portfolio website: [https://darryldejong.github.io/](https://darryldejong.github.io/)
+Visit my portfolio website: [darryldejong.github.io/Portfolio/](https://darryldejong.github.io/Portfolio/)
 
 - 📚 I’m currently learning:
   - IT support and technical troubleshooting.
