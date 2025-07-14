@@ -11,7 +11,7 @@
 
 <img align="right" width="150px" alt="Manetric" src="Images/manectric.gif"/>
 
-<img src="Images/dragonite.gif" alt="Dragonite" style="width: 200px;"> I am a student studying ***IT Support Technician***, currently halfway through my degree. I’m learning how to set up, troubleshoot, and manage different systems and devices, including networks, hardware, and software, to ensure everything works correctly, while also enjoying creating fun and creative projects.
+<img src="Images/dragonite.gif" alt="Dragonite" style="width: 200px;"> I am an IT engineer with a background in ***technical support***. I work on setting up, troubleshooting, and managing various systems and devices, including networks, hardware, and software, to ensure everything works correctly, while also enjoying creating fun and creative projects.
 
 Visit my portfolio website: [https://darryldejong.nl/](https://darryldejong.nl/)
 
